@@ -15,4 +15,4 @@
 </ul>
 <p style="text-align: right;">&nbsp;</p>
 
-![Фото](img/имя-картинки)
+![Фото](img/j6HhoR709zw.jpg)
